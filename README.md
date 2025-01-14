@@ -19,6 +19,7 @@ Primer vídeojoc desenvolupat i publicat en català. Una aventura conversacional
 
 ## Fotografies
 - https://mastodont.cat/@lapesanta
+- ComputerZone, CPCRulez, Commodoreplus, Retroind
 - altres fonts per citar
 
 ## Altres
