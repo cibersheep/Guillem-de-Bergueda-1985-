@@ -5,27 +5,27 @@ Primer vídeojoc desenvolupat i publicat en català. Una aventura conversacional
 - ACE Software
 
 ## Programació
-- Idea original i guió en Joan Argemí
-- Música i gràfics en Federeico J. Alonso
+- Idea original i guió en Joan Argemí d’Abadal (1943-2013)
+- Música i gràfics en Federico J. Alonso
 
 ## Plataformes
-- Spectrum
-- Amstrad CPC 464, 472, 664, 6128
-- Commodore 64 
+- Amstrad CPC 464, 472, 664, 6128 [juga en línia](https://amstrad.es/rvmplayer.php?file=guillem.zip&emuonline=GUILLEM)
+- Commodore 64 (només text)
 - MSX (només text)
+- ZX Spectrum (només text?)
 
 ## Llenguatge
 - BASIC
 
 ## Fotografies
 - https://mastodont.cat/@lapesanta
-- ComputerZone, CPCRulez, Commodoreplus, Retroind
+- ComputerZone, CPCRulez, Commodoreplus, Retroind, Generation MSX
 - altres fonts per citar
 
 ## Altres
 - Patrocinat pel Centre Divulgador de la Informàtica de la Generalitat de Catalunya
-- https://ifdb.org/viewgame?id=qcem1e3tsqnerr8
-- https://www.lavanguardia.com/encatala/20130716/54377560788/joan-argemi-i-d-abadal-a-s-j-s.html
+- [Entrada a la base de dades de ficcions interactives](https://ifdb.org/viewgame?id=qcem1e3tsqnerr8)
+- [Article a La Vanguardia](https://www.lavanguardia.com/encatala/20130716/54377560788/joan-argemi-i-d-abadal-a-s-j-s.html)
 
 ## PRESENTACIÓ
 En Guillem de Berguedà fou un trobador que visqué en el nostre turbulent segle XII. 
