@@ -1,0 +1,121 @@
+Passes
+====================================================
+
+- Carrega pantalla
+- Mostra el mapa
+- Demana el nom
+- Mostra l'ajuda
+- Accepta l'entrada
+  - mou en Guillem (+1 dia)
+  - demana una acció
+  - esdeveniment random
+    - robatori
+    - preguntes
+    
+
+Variables
+====================================================
+
+g1 = coordenada x de la posició d'en Guillem    
+g2 = coordenada y de la posició d'en Guillem
+ba = bandoler
+? = anell
+? = botafumeiro
+n = nom
+d = numero de dia
+pb = ?? perdut a la platja? mira l850
+din = diners
+mar = es pot creuar la mar
+pb = tenim la barca/vaixell
+fa = farcell
+mu = és la músicaOn
+
+l1 = localitzacions?
+pa = paraules?
+co = contestes?
+si = condicions??
+
+ll = llibre??
+mo = ?
+xx = ?
+
+ni = ?
+cx =?
+x = ?
+xp = ?
+yp = ?
+st = ?
+
+tm = ?
+p = ?
+id = ?
+ga = ?
+
+cl = ?
+so = ?
+    
+
+Esquema fet pel Copilot (no sé si és de fiar):
+====================================================
+
+Here is an outline of the entire code:
+
+    Initialization and Setup
+        Lines 10-50: Basic setup, screen clearing, and initial variable settings.
+
+    Main Program Loop
+        Lines 60-100: Main loop initialization and setting up error handling.
+
+    Game Initialization
+        Lines 110-140: Initialize game variables and randomize starting conditions.
+        Lines 150-210: Data setup and reading initial game state.
+
+    User Interaction
+        Lines 220-360: User input prompts and handling for player's name and initial instructions.
+        Lines 370-380: Instructions for numeric key usage.
+
+    Game Logic
+        Lines 390-490: Main game loop, reading game state, and executing commands.
+        Lines 500-580: Handling different game scenarios based on user inputs and game state.
+
+    Game Events and Responses
+        Lines 590-730: Specific events and their responses (e.g., finding a chest, encountering characters).
+        Lines 740-810: Handling specific locations and their events.
+
+    Conditional Checks and Actions
+        Lines 820-860: Conditional checks for various game states and performing actions.
+        Lines 870-910: Handling specific game responses based on conditions.
+        Lines 920-970: Additional game events and their responses.
+
+    Dialogue and Interaction
+        Lines 980-1030: Dialogue with characters and interaction handling.
+        Lines 1040-1100: Specific event handling and responses.
+        Lines 1110-1170: Handling special game events like encountering characters.
+
+    Navigation and Commands
+        Lines 1180-1300: Navigating the game world and executing commands.
+        Lines 1310-1400: Handling user commands and updating game state.
+        Lines 1410-1510: Command parsing and execution.
+
+    Game State Management
+        Lines 1520-1600: Managing game state based on user actions and game conditions.
+        Lines 1610-1690: Updating game state and handling errors.
+
+    Data Definitions
+        Lines 1700-2500: Defining game data, locations, and possible actions.
+        Lines 2510-3050: Setting up game verbs and actions.
+
+    Command Execution
+        Lines 3060-3180: Executing user commands and updating the game state.
+        Lines 3190-3260: Additional command handling and state updates.
+
+    Event Handling
+        Lines 3270-3370: Handling specific game events and their outcomes.
+        Lines 3380-3500: Managing game events and player interactions.
+        Lines 3510-3550: Finalizing events and updating the game state.
+
+    Miscellaneous
+        Lines 3560-4180: Handling various other game scenarios and interactions.
+
+This outline provides a high-level view of the structure and flow of the code within the game.
+
